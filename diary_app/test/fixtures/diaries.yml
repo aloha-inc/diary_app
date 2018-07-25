@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  id: 1
+  title: Start Aloha!
+  body: 今日はALOHA株式会社の最高のスタートを切れた
+
+two:
+  id: 2
+  title: Day2 Aloha
+  body: ALOHA株式会社、新事業発表！
